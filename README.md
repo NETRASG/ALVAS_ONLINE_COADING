@@ -1,4 +1,4 @@
-# Alva-s_online_coading
+# Alva's_online_coading
 # PROG 1
   Using methods charAt() & length() of String class, write a program to print the frequency of each character in a string.
  
