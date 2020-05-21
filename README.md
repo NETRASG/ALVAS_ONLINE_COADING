@@ -24,9 +24,9 @@ We have a Letter or a word then we need add some letters to it and need to find 
 Write a simple code to identify given linked list is palindrome or not by using stack. First take a Stack. Traverse through each node of the linked list and push each node value to Stack. Once the traversal & copying is done, iterate through linked list from head node again. In each iteration, pop one stack element and compare with node value in respective iteration. It is expected to match stack popped value with node value. In case of all matches, its a palindrome. Any one element mismatch makes it not a palindrome.
 
 # 20/05/2020
-# prog 6
+# prog 8
 Python Program to Exchange the Values of Two Numbers using ^ (exclusive or operator)
 
-# prog 7
+# prog 9
 Write Python Program to Reverse a Given Number
 
