@@ -40,3 +40,13 @@ Write a C program to construct a singly linked list by removing duplicate elemen
 # prog 13
 Write C Program to create Singly Liked List with n elements and reverse the elements
 
+# 22/05/2020
+# prog 14
+Write a C Program to implement various operations of Singly Linked List Stack
+
+# prog 15
+Java Program to separate the Individual Characters from a String
+
+# prog 16
+Java Program to find the largest and smallest word in a string (input with in the program)
+
