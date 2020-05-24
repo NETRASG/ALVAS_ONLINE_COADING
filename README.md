@@ -50,3 +50,7 @@ Java Program to separate the Individual Characters from a String
 # prog 16
 Java Program to find the largest and smallest word in a string (input with in the program)
 
+# 23/05/2020
+# prog 17
+Write a C Program to Generate First N Triangular Numbers (Where N is read from the Keyboard)
+
