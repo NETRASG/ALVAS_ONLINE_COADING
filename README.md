@@ -64,4 +64,11 @@ Python Program to Read a Number n And Print the Series "1+2+…..+n= "
 Given an array A of size N where the array elements contain values from 1 to N with duplicates, the task is to find total number of subarrays which start and end with the same element.
 Write a program in C to print all permutations of a given string
 
+# 27/05/2020
+# java prog
+Given an array arr[] of the positive integers of size N, the task is to find the largest element on the left side of each index which is smaller than the element present at that index. Note: If no such element is found then print -1.
+Write a Java program to implement Binary Tree using the Linked List
+# c prog
+Write a C Program to sort an array of integers in ascending order and display the sorted array and Number of passes performed for sorting.
+
 
