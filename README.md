@@ -54,3 +54,14 @@ Java Program to find the largest and smallest word in a string (input with in th
 # prog 17
 Write a C Program to Generate First N Triangular Numbers (Where N is read from the Keyboard)
 
+# 26/05/2020
+# Python Programs
+Python Program to Print all Integers that Aren’t Divisible by Either 2 or 3 and Lie between 1 and 50
+Python Program to Check if a Number is a Palindrome
+Python Program to Count the Number of Digits in a Number
+Python Program to Read a Number n And Print the Series "1+2+…..+n= "
+# C prog
+Given an array A of size N where the array elements contain values from 1 to N with duplicates, the task is to find total number of subarrays which start and end with the same element.
+Write a program in C to print all permutations of a given string
+
+
