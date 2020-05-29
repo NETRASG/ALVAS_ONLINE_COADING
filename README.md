@@ -71,4 +71,14 @@ Write a Java program to implement Binary Tree using the Linked List
 # c prog
 Write a C Program to sort an array of integers in ascending order and display the sorted array and Number of passes performed for sorting.
 
+# 28/05/2020
+# balenced bracket
+java program to balence the bracket
+
+# JSP-prog 1
+write jsp code to display today’s date and time using expression tag
+
+# Reducing array
+Given an array arr[] of size N and an integer K. The task is to find the last remaining element in the array after reducing the array
+
 
