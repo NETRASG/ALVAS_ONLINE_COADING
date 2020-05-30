@@ -81,4 +81,14 @@ write jsp code to display today’s date and time using expression tag
 # Reducing array
 Given an array arr[] of size N and an integer K. The task is to find the last remaining element in the array after reducing the array
 
+# 29/05/2020
+# lowercase and uppercase
+Python program to calculate the number of lowercase and uppercase letters in a string
+# Chinese Remainder Theorem.
+Write a c program to solve a system of linear congruences by applying the Chinese Remainder Theorem.
+# Armstrong Number
+Write a Java Program to check whether the given number is Armstrong number or not
+# Substring
+Write a Java Program to find longest substring without repeating characters in a string.
+
 
