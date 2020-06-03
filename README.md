@@ -109,4 +109,14 @@ Write a program to check if given linked list has a loop or not.
 # inversion count
 Write a C Program to find inversion count of array.
 
+# 03/06/2020
+
+# greatest elem in list
+Take a list of length 3 containing integers, find out which is larger, first or last one and set all the elements in the list to be that value. Print the updated list
+# prime num
+python program to finding the prime numbers in a given range
+
+# circular DDL
+Java Program to Implement Circular Doubly Linked List
+
 
