@@ -140,5 +140,14 @@ Write a program in C to rotate an array by N positions.
 
 # CRC
 Write a Python program to perform Cyclic Redundancy Check
+# 8/06/2020
+# diff of 2 squares
+Write C++ program to Check whether a number can be represented as difference of two squares
+
+# detect node
+Java program to delete a node from the middle of the singly linked list
+
+# string palindrome
+Program to find whether a string is a palindrome or not
 
 
