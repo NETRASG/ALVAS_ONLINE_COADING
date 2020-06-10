@@ -149,5 +149,14 @@ Java program to delete a node from the middle of the singly linked list
 
 # string palindrome
 Program to find whether a string is a palindrome or not
+# 09/06/2020
+# rotate matrix
+Write a C Program to rotate the matrix by K times.
+
+# Perfect Sum Problem
+Write a Python to implement Perfect Sum Problem
+
+# even and odd
+Python Program to count even and odd numbers.
 
 
